@@ -18,11 +18,15 @@ I’m constantly exploring new tech stacks, learning new programming languages, 
 If you’re working on an exciting project or have ideas to share, don’t hesitate to reach out. I'm always up for learning and collaborating with fellow developers!
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/.vaibhav_solanki./profilecard/?igsh=MWJpaWxlaGZlMGtuaA==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/vaibhav-solanki-) 
+- 📍 **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/vaibhav-solanki-)
+- 📸 **Instagram**: [My Instagram Profile](https://www.instagram.com/.vaibhav_solanki./profilecard/?igsh=MWJpaWxlaGZlMGtuaA==)
+- 💻 **HackTheBox**: [My HackTheBox Profile](https://www.hackthebox.com/profile/your-hackthebox-profile)
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/directus-%2364f.svg?style=for-the-badge&logo=directus&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react)
+## Technologies & Tools I Work With:
+- **Backend**: Python (Django), Node.js  
+- **Frontend**: React.js, JavaScript, HTML5, CSS3  
+- **Machine Learning**: TensorFlow, Scikit-learn, Pandas  
+- **Cybersecurity**: Ethical Hacking, Penetration Testing  
 
 
 
