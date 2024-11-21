@@ -19,8 +19,7 @@ If you’re working on an exciting project or have ideas to share, don’t hesit
 
 
 - 📍 **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/vaibhav-solanki-)
-- 📸 **Instagram**: [My Instagram Profile](https://www.instagram.com/.vaibhav_solanki./profilecard/?igsh=MWJpaWxlaGZlMGtuaA==)
-- 💻 **HackTheBox**: [My HackTheBox Profile](https://www.hackthebox.com/profile/your-hackthebox-profile)
+- 📸 **Instagram**: [My Instagram Profile](https://www.instagram.com/.vaibhav_solanki.)
 
 ## Technologies & Tools I Work With:
 - **Backend**: Python (Django), Node.js  
